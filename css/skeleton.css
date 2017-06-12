@@ -439,5 +439,5 @@ h4#logo {
 }
 
 @media only screen and (max-device-width: 1000px) {
-	body { background-size: 300%; }
+	body { background-size: 300% !important; }
 }
