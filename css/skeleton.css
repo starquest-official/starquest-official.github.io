@@ -435,5 +435,5 @@ p { color: #955a25; }
 h4#logo {
 	color: #ffec40;
 	letter-spacing: .6em;
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
