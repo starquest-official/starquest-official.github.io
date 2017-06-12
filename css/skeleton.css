@@ -432,5 +432,8 @@ body {
 
 p { color: #955a25; }
 
-h4#logo { color: #ffec40; }
-h4#logo { letter-spacing: .6em; }
+h4#logo {
+	color: #ffec40;
+	letter-spacing: .6em;
+	text-transform: capitalize;
+}
