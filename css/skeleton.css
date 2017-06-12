@@ -437,3 +437,7 @@ h4#logo {
 	letter-spacing: .6em;
 	text-transform: uppercase;
 }
+
+@media only screen and (max-device-width: 1000px) {
+	body { background-size: 300%; }
+}
